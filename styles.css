@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:#CBD6CB;
+}
+.wd1{
+	width:200px;
+}
+.wd2{
+	width:600px;
+}
+.one{
+	list-style-position:inside;
+}
+.wd3{
+	width:200px;
+}
